@@ -38,16 +38,16 @@ Note: This way can't export cucumber reporter
 2. Use "mvn clean test -DBROWSER=chrome verify" to run and export report
 
 <p align="center">
-  <img src="./uploadFiles/run-cmd.png" alt="Maven test console" width="738">
+  <img src="./uploadFiles/run-cmd.png" alt="Syntax in CMD" width="738">
 </p>
 
 
 3. After complete you can check report at: root.folder/target/site/cucumber-reporting/cucumber-html-reports/overview-features.html
 
-<p align="left">
-  <img src="./uploadFiles/report.png" alt="Maven test console" width="738">
+<p align="center">
+  <img src="./uploadFiles/report.png" alt="Source tree in your project" width="738">
 </p>
 
-<p align="right">
-  <img src="./uploadFiles/cucumber-report.png" alt="Maven test console" width="738">
+<p align="center">
+  <img src="./uploadFiles/cucumber-report.png" alt="Cucumber report" width="738">
 </p>
